@@ -5,7 +5,7 @@ _Shahbaz Syed, Timon Ziegenbein, Philipp Heinisch, Henning Wachsmuth, and Martin
 
 2. A New Dataset for Causality Identification in Argumentative Texts.
  _Khalid Al-Khatib, Michael Völske, Shahbaz Syed, Anh Le, Martin Potthast, and Benno Stein._
- [code] [data] [[paper](https://webis.de/publications.html#alkhatib_2023a)]
+ [[data](https://github.com/webis-de/sigdial23-causality-corpus)] [[paper](https://webis.de/publications.html#alkhatib_2023a)]
 
 3. OpinionConv: Conversational Product Search with Grounded Opinions.
    _Vahid Sadiri Javadi, Martin Potthast, and Lucie Flek._
